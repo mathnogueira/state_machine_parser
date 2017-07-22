@@ -1,0 +1,11 @@
+package statemachine.parsing;
+
+public enum EDefinitionType {
+
+    STATES_DEFINITION,
+    ALPHABET_DEFINITION,
+    TRANSITION_DEFINITION,
+    INITIAL_STATE_DEFINITION,
+    FINAL_STATES_DEFINITION
+
+}
